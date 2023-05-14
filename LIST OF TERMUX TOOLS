@@ -1,0 +1,361 @@
+# TERMUX-HACKING-  BY PAKISTANI HACKER GROUP
+list of the best Termux hacking tools  android osint penetration-testing awesome-list wifi-security hacking-tools termux-hacking
+seeker - Accurately Locate Smartphones using Social Engineering.->
+ANDRAX - ANDRAX is a Penetration Testing platform developed specifically for Android smartphones, ANDRAX has the ability to run natively on Android so it behaves like a common Linux distribution, But more powerful than a common distribution->
+findomain - The fastest and cross-platform subdomain enumerator, don't waste your time.->
+ReconCobra - Complete Automated pentest framework for Information Gathering.->
+HttpLiveProxyGrabber - Best Proxy Grabber Tool!.->
+instagramCracker - Full Speed Instagram Cracker.->
+ToolB0x - Hacking Tools ⚡.->
+TekDefense-Automater - Automater - IP URL and MD5 OSINT Analysis.->
+BruteX - Automatically brute force all services running on a target..->
+Findsploit - Find exploits in local and online databases instantly.->
+ReverseAPK - Quickly analyze and reverse engineer Android packages.->
+Sn1per - Automated pentest framework for offensive security experts.->
+noisy - Simple random DNS, HTTP/S internet traffic noise generator.->
+LITEDDOS - This Tool Is Supporting For DDOS Activities, The Way Is Typing Command : $ python2 islddos.py example: $python2 islddos.py 104.27.190.77 8080 100 IP target: 104.27.190.77 port: 8080 packet:100 Made In indonesia Indonesia Security Lite.->
+LITESPAM - Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Unlimited.->
+hakkuframework - Hakku Framework penetration testing.->
+BeeLogger - Generate Gmail Emailing Keyloggers to Windows..->
+KnockMail - Verify if email exists.->
+Umbrella - A Phishing Dropper designed to Pentest..->
+mfterm - Terminal for working with Mifare Classic 1-4k Tags.->
+djangohunter - Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information..->
+shodanwave - Shodanwave is a tool for exploring and obtaining information from Netwave IP Camera. .->
+WebXploiter - WebXploiter - An OWASP Top 10 Security scanner !.->
+CrawlBox - Easy way to brute-force web directory..->
+TrackOut - Simple Python IP Tracker.->
+sslcaudit - No description provided->
+Sublist3r - Fast subdomains enumeration tool for penetration testers.->
+doork - Passive Vulnerability Auditor.->
+sir - Skype Ip Resolver.->
+xl-py - No description provided->
+netdiscover - netdiscover.->
+ATSCAN - Advanced dork Search & Mass Exploit Scanner.->
+fuxploider - File upload vulnerability scanner and exploitation tool..->
+ipwn - No description provided->
+w3af - w3af: web application attack and audit framework, the open source web vulnerability scanner..->
+AndroBugs_Framework - AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications. No need to install on Windows..->
+roxysploit - A Hackers framework.->
+PadBuster - Automated script for performing Padding Oracle attacks.->
+capstone - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings..->
+wirespy - Framework designed to automate various wireless networks attacks (the project was presented on Pentester Academy TV's toolbox in 2017)..->
+lscript - The LAZY script will make your life easier, and of course faster..->
+ADB-Toolkit - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!.->
+Hunner - Hacking framework.->
+Termux-Styling-Shell-Script - Unofficial Termux Styling [ Bash ].->
+killshot - A Penetration Testing Framework, Information gathering tool & Website Vulnerability Scanner.->
+admin-panel-finder - A Python Script to find admin panel of a site.->
+beef - The Browser Exploitation Framework Project.->
+Parsero - Parsero | Robots.txt audit tool.->
+bettercap - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks..->
+bleachbit - BleachBit system cleaner for Windows and Linux.->
+trape - People tracker on the Internet: OSINT analysis and research tool by Jose Pino.->
+gcat - A PoC backdoor that uses Gmail as a C&C server.->
+wfdroid-termux - Android Terminal Web-Hacking Tools.->
+fbht - Facebook Hacking Tool.->
+netattack - A simple python script to scan and attack wireless networks..->
+netattack2 - An advanced network scan and attack script based on GUI. 2nd version of no-GUI netattack. .->
+AUXILE - Auxile Framework.->
+hash-generator - beautiful hash generator.->
+hasher - Hash cracker with auto detect hash.->
+ko-dork - A simple vuln web scanner.->
+OSIF - Open Source Information Facebook.->
+WifiBruteCrack - Program to attempt to brute force all wifi networks in range of a device, and return a possible set of networks to connect to and the password,.->
+lynis - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional..->
+rdpy - Remote Desktop Protocol in Twisted Python.->
+commix - Automated All-in-One OS command injection and exploitation tool..->
+cuckoo - Cuckoo Sandbox is an automated dynamic malware analysis system.->
+Easymap - No description provided->
+Ecode - Encode / Decode.->
+Hac - No description provided->
+sqlscan - Quick SQL Scanner, Dorker, Webshell injector PHP.->
+shimit - A tool that implements the Golden SAML attack.->
+secHub - Python Security/Hacking Kit.->
+hammer - Hammer DDos Script - Python 3.->
+Kadabra - [DEPRECATED] Kadabra is my automatic LFI Exploiter and Scanner, written in C++ and a couple extern module in Python..->
+LFISuite - Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner .->
+Clickjacking-Tester - A python script designed to check if the website if vulnerable of clickjacking and create a poc.->
+Dr0p1t-Framework - A framework that create an advanced stealthy dropper that bypass most AVs and have a lot of tricks.->
+elpscrk - A Common User Passwords generator script that looks like the tool Eliot used it in Mr.Robot Series Episode 01 :D :v.->
+SecLists - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more..->
+dnsrecon - DNS Enumeration Script.->
+HiddenEye - Modern Phishing Tool With Advanced Functionality And Multiple Tunnelling Services [ Android-Support-Available ].->
+Intersect-2.5 - Post-Exploitation Framework.->
+wifite - No description provided->
+wifite2 - Rewrite of the popular wireless network auditor, "wifite".->
+CeWL - CeWL is a Custom Word List Generator.->
+CMSmap - CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs. .->
+torshammer - Tor's hammer. Slow post DDOS tool written in python..->
+RTLSDR-Scanner - A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library.->
+The-Eye - Simple security surveillance script for linux distributions..->
+Pybelt - The hackers tool belt.->
+multimon-ng - No description provided->
+Empire - Empire is a PowerShell and Python post-exploitation agent..->
+sipvicious - SIPVicious suite is a set of security tools that can be used to audit SIP based VoIP systems..->
+wafw00f - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website..->
+BAF - Blind Attacking Framework.->
+weevely3 - Weaponized web shell.->
+xsser - Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications..->
+spamchat - Spam Chat Facebook.->
+wifi-hacker - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2).->
+nodexp - NodeXP - A Server Side Javascript Injection tool capable of detecting and exploiting Node.js vulnerabilities.->
+weeman - HTTP server for phishing in python.->
+dedsploit - Network protocol auditing framework.->
+rang3r - rang3r | Multi Thread IP + Port Scanner.->
+fluxion - Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality..->
+hURL - hexadecimal & URL encoder + decoder.->
+EyeWitness - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible..->
+dnsenum - dnsenum is a perl script that enumerates DNS information.->
+msfpc - MSFvenom Payload Creator (MSFPC).->
+hasherdotid - Hasherdotid.->
+crowbar - Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools. .->
+AstraNmap - No description provided->
+Auxscan - No description provided->
+Black-Hydra - No description provided->
+FaDe - Fake Deface.->
+GINF - Github information gathering.->
+inther - No description provided->
+Lazymux - termux tool installer.->
+OWScan - No description provided->
+santet-online - No description provided->
+SpazSMS - Send unsolicited messages repeatedly on the same phone number.->
+distorm - Powerful Disassembler Library For x86/AMD64.->
+wifitap - wifitap updated for BT5r3.->
+indonesian-wordlist - Indonesian wordlist.->
+dbd - Durandal's Backdoor.->
+Leaked - Leaked? 2.1 - A Checking tool for Hash codes, Passwords and Emails leaked.->
+slowloris - Low bandwidth DoS tool. Slowloris rewrite in Python..->
+golismero - GoLismero - The Web Knife.->
+SCANNER-INURLBR - Advanced search in search engines, enables analysis provided to exploit GET / POST capturing emails & urls, with an internal custom validation junction for each target / url found..->
+GoogleSearch-CLI - Search anything on Google without captcha.->
+avet - AntiVirus Evasion Tool.->
+hulk - HULK DoS tool ported to Go with some additional features..->
+openvas - Open Vulnerability Assessment Scanner.->
+Gemail-Hack - python script for Hack gmail account brute force.->
+Namechk - Osint tool based on namechk.com for checking usernames on more than 100 websites, forums and social networks..->
+webdav - Simple Go WebDAV server..->
+4nonimizer - A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN).->
+sqliv - massive SQL injection vulnerability scanner.->
+hashcat - World's fastest and most advanced password recovery utility.->
+maskprocessor - High-Performance word generator with a per-position configureable charset.->
+zarp - Network Attack Tool.->
+Metasploit_termux - No description provided->
+Nethunter-In-Termux - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone .->
+TermuxAlpine - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment..->
+MSF-Pg - No description provided->
+BinGoo - BinGoo! A Linux bash based Bing and Google Dorking Tool.->
+Planetwork-DDOS - No description provided->
+osrframework - OSRFramework, the Open Sources Research Framework is a AGPLv3+ project by i3visio focused on providing API and tools to perform more accurate online researches..->
+angryFuzzer - Tools for information gathering.->
+PyBozoCrack - A silly & effective MD5 cracker in Python.->
+faraday - Collaborative Penetration Test and Vulnerability Management Platform.->
+plecost - Plecost - Wordpress finger printer Tool .->
+keimpx - Check for valid credentials across a network over SMB.->
+sslyze - Current development of SSLyze now takes place on a separate repository.->
+wreckuests - Wreckuests — yet another one hard-hitting tool to run DDoS atacks with HTTP-flood.->
+dmitry - DMitry (Deepmagic Information Gathering Tool).->
+peepdf - Powerful Python tool to analyze PDF documents.->
+cowpatty - coWPAtty: WPA2-PSK Cracking.->
+blackbox - No description provided->
+Pyrit - The famous WPA precomputed cracker, Migrated from Google..->
+GoldenEye - GoldenEye Layer 7 (KeepAlive+NoCache) DoS Test Tool.->
+kickthemout - 💤 Kick devices off your network by performing an ARP Spoof attack..->
+onioff - 🌰 An onion url inspector for inspecting deep web links..->
+DHCPig - DHCP exhaustion script written in python using scapy network library.->
+pybluez - Bluetooth Python extension module.->
+Remot3d - Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors.->
+RegRipper2.8 - RegRipper version 2.8.->
+evilginx - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.->
+evilginx2 - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.->
+txtool - an easy pentesting tool..->
+pydictor - A powerful and useful hacker dictionary builder for a brute-force attack.->
+recon-ng - Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources..->
+theHarvester - E-mails, subdomains and names Harvester - OSINT .->
+httptunnel - Bidirectional data stream tunnelled in HTTP requests..->
+InSpy - A python based LinkedIn enumeration tool.->
+Responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. .->
+credmap - The Credential Mapper.->
+qark - Tool to look for several security related Android application vulnerabilities.->
+wifresti - Find your wireless network password in Windows , Linux and Mac OS.->
+xerosploit - Efficient and advanced man in the middle framework.->
+Evil-create-framework - No description provided->
+SH33LL - SHELL SCANNER.->
+Infoga - Infoga - Email OSINT.->
+SMBrute - SMB Protocol Bruteforce.->
+WAScan - WAScan - Web Application Scanner.->
+WPSeku - WPSeku - Wordpress Security Scanner .->
+xsmash - Facebook Hack Box .->
+zeroeye - Key Generator v1.66.->
+subscraper - External pentest and bug bounty tool to perform subdomain enumeration through various techniques. SubScraper will provide information such as HTTP & DNS lookups to aid in potential next steps..->
+IPGeoLocation - Retrieve IP Geolocation information.->
+Crips - IP Tools To quickly get information about IP Address's, Web Pages and DNS records..->
+fsociety - fsociety Hacking Tools Pack – A Penetration Testing Framework.->
+Xshell - ~ Shell Finder By Ⓜ Ⓐ Ⓝ Ⓘ Ⓢ Ⓢ Ⓞ ☪ ~.->
+cupp - Common User Passwords Profiler (CUPP).->
+CyberScan - CyberScan: Network's Forensics ToolKit.->
+HTools - 50+ Hacking Tools Collection.->
+Hatch - Hatch is a brute force tool that is used to brute force most websites.->
+Mercury - Mercury is a hacking tool used to collect information and use the information to further hurt the target.->
+crackle - Crack and decrypt BLE encryption.->
+nk26 - NKosec Encode, 2 side encode. change alphabet to numeric or back numeric to alphabet..->
+WP-plugin-scanner - A tool to list plugins installed on a wordpress powered website..->
+mitmproxy - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers..->
+xspy - Record X11 keypress events to a log file.->
+Th3inspector - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎.->
+XAttacker - X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter.->
+apt2 - automated penetration toolkit.->
+sslstrip - A tool for exploiting Moxie Marlinspike's SSL "stripping" attack..->
+creddump - Automatically exported from code.google.com/p/creddump.->
+DKMC - DKMC - Dont kill my cat - Malicious payload evasion tool.->
+FBUPv2.0 - No description provided->
+BadMod - CMS auto detect and exploit..->
+fierce - A DNS reconnaissance tool for locating non-contiguous IP space..->
+braa - Ultra-fast SNMPv1/v2 stack. Get/set/walk tens of thousands of hosts at once..->
+Stitch - Python Remote Administration Tool (RAT).->
+demiguise - HTA encryption tool for RedTeams.->
+Winpayloads - Undetectable Windows Payload Generation.->
+termux-ubuntu - Ubuntu chroot on termux.->
+bbqsql - SQL Injection Exploitation Tool.->
+EggShell - iOS/macOS/Linux Remote Administration Tool.->
+mfcuk - MiFare Classic Universal toolKit (MFCUK).->
+mfoc - Mifare Classic Offline Cracker.->
+termux-fedora - A script to install a Fedora chroot into Termux.->
+AutoSploit - Automated Mass Exploiter.->
+AutoPixieWps - Automated pixieWps python script.->
+exploitdb - The official Exploit Database repository.->
+gobuster - Directory/File, DNS and VHost busting tool written in Go.->
+Simple-Fuzzer - Simple Fuzzer is a simple config-file driven block/mutation based fuzzing system.->
+OWASP-WebScarab - OWASP WebScarab.->
+QRLJacking - QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty attack vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers..->
+WiFi-Pumpkin - Framework for Rogue Wi-Fi Access Point Attack.->
+Spammer-Grab - A brand new, awakened version of the old Spammer-Grab..->
+zirikatu - Fud Payload generator script.->
+eternal_scanner - An internet scanner for exploit CVE-2017-0144 (Eternal Blue) & CVE-2017-0145 (Eternal Romance).->
+get - Get is a simple script to retrieve an ip from hostname or vice-versa ..->
+enum4linux - enum4Linux is a Linux alternative to enum.exe for enumerating data from Windows and Samba hosts..->
+KatanaFramework - The New Hacking Framework.->
+PowerSploit - PowerSploit - A PowerShell Post-Exploitation Framework.->
+proxystrike - Automatically exported from code.google.com/p/proxystrike.->
+FakeImageExploiter - Use a Fake image.jpg to exploit targets (hide known file extensions).->
+Meterpreter_Paranoid_Mode-SSL - Meterpreter Paranoid Mode - SSL/TLS connections.->
+morpheus - Morpheus - Automating Ettercap TCP/IP (MITM-hijacking Tool).->
+trojanizer - Trojanize your payload - WinRAR (SFX) automatization - under Linux distros.->
+ExploitOnCLI - Trying to be the best tool to search for exploits in the terminal..->
+XPL-SEARCH - Search exploits in multiple exploit databases!.->
+MyServer - MyServer is your own localhost web server. you can setup PHP, Apache, Nginx and MySQL servers on your android devices or linux like Ubuntu etc. MyServer is Developed for android terminal like Termux or GNURoot Debian terminal..->
+Tool-X - Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other android terminals. using Tool-X you can install almost 370+ hacking tools in termux app and other linux based distributions..->
+ezsploit - Linux bash script automation for metasploit.->
+binwalk - Firmware Analysis Tool.->
+routersploit - Exploitation Framework for Embedded Devices.->
+shellnoob - A shellcode writing toolkit.->
+joomscan - OWASP Joomla Vulnerability Scanner Project.->
+shell-scan - Look for a backdoor shell on the website.->
+catphish - CATPHISH project - For phishing and corporate espionage. Perfect for RED TEAM. .->
+killerbee - IEEE 802.15.4/ZigBee Security Research Toolkit.->
+masscan - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes..->
+intrace - Enumeration of IP hops using existing TCP connections.->
+jsql-injection - jSQL Injection is a Java application for automatic SQL database injection..->
+arp-scan - The ARP Scanner.->
+killchain - A unified console to perform the "kill chain" stages of attacks..->
+eaphammer - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks..->
+Blazy - Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF ..->
+Hash-Buster - Crack hashes in seconds..->
+sqlmate - A friend of SQLmap which will do what you always expected from SQLmap..->
+Striker - Striker is an offensive information and vulnerability scanner..->
+XSStrike - Most advanced XSS scanner..->
+EasY_HaCk - Hack the World using Termux.->
+nishang - Nishang - Offensive PowerShell for red team, penetration testing and offensive security. .->
+pwnat - The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, router administrative requirements, STUN/TURN/UPnP/ICE, or spoofing required..->
+kojawafft - newfft.->
+DDosy - Perform a Ddos attack with Threads (Educational purpose).->
+fern-wifi-cracker - Automatically exported from code.google.com/p/fern-wifi-cracker.->
+ghost-phisher - Automatically exported from code.google.com/p/ghost-phisher.->
+Brutal - Payload for teensy like a rubber ducky but the syntax is different. this Human interfaes device ( HID attacks ). Penetration With Teensy . Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device ( Payload Teensy ).->
+Dracnmap - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands..->
+LALIN - this script automatically install any package for pentest with uptodate tools , and lazy command for run the tools like lazynmap , install another and update to new #actually for lazy people hahaha #and Lalin is remake the lazykali with fixed bugs , added new features and uptodate tools . It's compatible with the latest release of Kali (Rolling).->
+TheFatRat - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection ..->
+Vegile - This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell.->
+the-backdoor-factory - Patch PE, ELF, Mach-O binaries with shellcode (NOT Supported).->
+termineter - Smart Meter Security Testing Framework.->
+kwetza - Python script to inject existing Android applications with a Meterpreter payload..->
+D-TECT-1 - D-TECT - Pentesting the Modern Web.->
+smbmap - SMBMap is a handy SMB enumeration tool.->
+slowhttptest - Application Layer DoS attack simulator.->
+johnny - The GUI frontend to the John the Ripper password cracker.->
+HT-WPS-Breaker - HT-WPS Breaker (High Touch WPS Breaker).->
+PwnSTAR - PwnSTAR (Pwn SofT-Ap scRipt) - for all your fake-AP needs!.->
+termux-wordpresscan - No description provided->
+bulk_extractor - This is the development tree. For downloads please see:.->
+uidsploit - The Uidsploit Framework | Penetration Test Tool.->
+fuckshitup - php-cli vulnerability scanner.->
+snitch - information gathering via dorks.->
+Zerodoor - A script written lazily for generating cross-platform backdoors on the go :) .->
+deblaze - Performs method enumeration and interrogation against flash remoting end points..->
+jboss-autopwn - A JBoss script for obtaining remote shell access.->
+sqlmap - Automatic SQL injection and database takeover tool.->
+termux-sudo - A bash script that provides sudo for Termux.->
+DSSS - Damn Small SQLi Scanner.->
+DSVW - Damn Small Vulnerable Web.->
+DSXS - Damn Small XSS Scanner.->
+kalibrate-rtl - fork of http://thre.at/kalibrate/ for use with rtl-sdr devices.->
+Gloom-Framework - Gloom-Framework :: Linux Penetration Testing Framework.->
+nikto - Nikto web server scanner.->
+cpscan - website admin panel finder.->
+torghost - Tor anonimizer.->
+Wordpresscan - WPScan rewritten in Python + some WPSeku ideas.->
+IP-FY - Gathers information about a Particular IP address.->
+reaver-wps-fork-t6x - No description provided->
+leviathan - wide range mass audit toolkit.->
+websploit - Websploit is an advanced MITM framework..->
+hacktronian - All in One Hacking Tool for Linux & Android.->
+EagleEye - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search..->
+CHAOS - 🔥 CHAOS is a PoC that allow generate payloads and control remote operating systems..->
+sAINT - 👁️ (s)AINT is a Spyware Generator for Windows systems written in Java. [Discontinued].->
+yersinia - A framework for layer 2 attacks.->
+ridenum - Rid_enum is a null session RID cycle attack for brute forcing domain controllers..->
+social-engineer-toolkit - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here..->
+CMSeeK - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 170 other CMSs.->
+fbvid - Facebook Video Downloader (CLI) For Linux Systems Coded in PHP.->
+RED_HAWK - All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers.->
+shellstack - A PHP Based Tool That Helps You To Manage All Your Backdoored Websites Efficiently..->
+Androspy - Androspy framework is a Backdoor Crypter & Creator with Automatic IP Poisener.->
+SocialBox - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi.->
+gasmask - Information gathering tool - OSINT.->
+Blazy - Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF ..->
+Breacher - An advanced multithreaded admin panel finder written in python..->
+Hash-Buster - Crack hashes in seconds..->
+ReconDog - Reconnaissance Swiss Army Knife.->
+sqlmate - A friend of SQLmap which will do what you always expected from SQLmap..->
+Striker - Striker is an offensive information and vulnerability scanner..->
+XSStrike - Most advanced XSS scanner..->
+EvilURL - Generate unicode evil domains for IDN Homograph Attack and detect them..->
+GoblinWordGenerator - Python wordlist generator .->
+SocialFish - Educational Phishing Tool & Information Collector .->
+bing-ip2hosts - bingip2hosts is a Bing.com web scraper that discovers websites by IP address.->
+WhatWeb - Next generation web scanner.->
+CredSniper - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens..->
+airgeddon - This is a multi-use bash script for Linux systems to audit wireless networks..->
+thc-ipv6 - IPv6 attack toolkit.->
+sniffjoke - a client-only layer of protection from the wiretap/sniff/IDS analysis.->
+termux-lazysqlmap - SQLMAP for Lazy People on Termux.->
+volatility - An advanced memory forensics framework.->
+websploit - websploit is an advanced MITM framework.->
+air-hammer - No description provided->
+wifiphisher - The Rogue Access Point Framework.->
+pixiewps - An offline Wi-Fi Protected Setup brute-force utility.->
+PiDense - 🍓📡🍍Monitor illegal wireless network activities. (Fake Access Points), (WiFi Threats: KARMA Attacks, WiFi Pineapple, Similar SSID, OPN Network Density etc.).->
+doona - Network based protocol fuzzer.->
+dotdotpwn - DotDotPwn - The Directory Traversal Fuzzer.->
+wpscan - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites..->
+brutespray - Brute-Forcing from Nmap output - Automatically attempts default creds on found services..->
+fbi - Facebook Information.->
+A-Rat - No description provided->
+wfuzz - Web application fuzzer.->
+giskismet - giskismet – Wireless recon visualization tool.->
+Cookie-stealer - Crappy cookie stealer.->
+cdpsnarf - CDPSnarf is a network sniffer exclusively written to extract information from CDP (Cisco Discovery Protocol) packets. .->
+zaproxy - The OWASP ZAP core project.->
+koadic - Koadic C3 COM Command & Control - JScript RAT.->
+webpwn3r - WebPwn3r - Web Applications Security Scanner..->]([->
+Termux-Kali - Termux-Kali - Install Kali Linux on Android using Termux!.->]
